@@ -3,7 +3,7 @@ Uma aplicação desktop para cálculos de anuidades, perpetuidades e amortizaç�
 Funcionalidades
 Esta calculadora financeira oferece três principais funcionalidades:
 
-##Cálculo de Anuidade
+## Cálculo de Anuidade
 
 Suporte para anuidades ordinárias e vencidas
 Calcula o valor presente com base em:
@@ -13,7 +13,7 @@ Taxa de juros
 Número de períodos
 
 
-##Cálculo de Perpetuidade
+## Cálculo de Perpetuidade
 
 Determina o valor presente de uma série infinita de pagamentos
 Baseado em:
@@ -21,7 +21,7 @@ Baseado em:
 PMT (valor do pagamento)
 Taxa de juros
 
-##Cálculo de Amortização
+## Cálculo de Amortização
 
 Gera tabela completa de amortização com:
 
